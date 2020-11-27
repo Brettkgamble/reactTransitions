@@ -20,7 +20,7 @@ class TransitionComp extends Component{
             <>
                 <Transition
                     in={this.state.show}
-                    timeout={1000}
+                    timeout={200}
 
                     // enter={false}
                     // exit={false}
